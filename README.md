@@ -106,27 +106,32 @@ The Power BI report consists of **five interactive analytical pages**:
 1. **Executive Overview**  
    - High-level KPIs  
    - Revenue trends over time  
-   - Payment method distribution  
+   - Payment method distribution
+   - https://github.com/khush3521/Customer-Shopping-Behavior-Analysis-2021-2023-/blob/main/01_Executive%20Overview.png  
 
 2. **Gender Analysis**  
    - Shopping distribution by gender  
    - Products sold and revenue by gender  
-   - Category preference by gender  
+   - Category preference by gender
+   - https://github.com/khush3521/Customer-Shopping-Behavior-Analysis-2021-2023-/blob/main/02_GENDER%20ANALYSIS.png  
 
 3. **Age Group Analysis**  
    - Shopping behavior across age groups  
    - Revenue and product volume by age  
-   - Category preference by age group  
+   - Category preference by age group
+   - https://github.com/khush3521/Customer-Shopping-Behavior-Analysis-2021-2023-/blob/main/03_Age%20analysis.png 
 
 4. **Category & Mall Analysis**  
    - Overall category performance  
    - Mall-wise category revenue  
-   - Category behavior across demographics  
+   - Category behavior across demographics
+   - https://github.com/khush3521/Customer-Shopping-Behavior-Analysis-2021-2023-/blob/main/04_Category%20%26%20Mall%20Analysis.png  
 
 5. **Payment Method Analysis**  
    - Distribution of payment methods  
    - Revenue contribution by payment type  
-   - Relationship between payment method, age, and category  
+   - Relationship between payment method, age, and category
+   - https://github.com/khush3521/Customer-Shopping-Behavior-Analysis-2021-2023-/blob/main/05_Payment%20Method%20Analysis.png 
 
 ---
 
