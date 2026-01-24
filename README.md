@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue)
+![SQL](https://img.shields.io/badge/Tool-SQL-orange)
+![DAX](https://img.shields.io/badge/Tool-DAX-green)
+
 #  Customer Shopping Behavior Analysis  
 ### Across Multiple Shopping Malls (2021–2023)
 
